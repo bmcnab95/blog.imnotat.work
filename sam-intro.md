@@ -1,3 +1,9 @@
+Title: Sam's Intro
+Author: Sam
+Category: Misc.
+Tags: Intro
+Date: 3/8/17
+
 Hello. My name is Sarah, but I prefer to go by Sam. I’m currently twenty years old, a biology major, part of the working class, a photographer, and a lot more that we’ll both learn about as time goes on. 
 
 I’m not going to write about anything in particular for now but my favorite subjects will probably come up more than others. I’m going to talk a lot about science, travel, personal growth and struggles, and feminism. I’ll probably write about a lot of other things as well but this is just a quick little overview of what you might expect coming from me.

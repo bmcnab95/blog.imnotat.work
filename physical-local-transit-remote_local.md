@@ -2,7 +2,7 @@ Title: The 4 stages of data protection: Local
 Author: Bryce McNab
 Category: Security
 Tags: Alice and Bob, Encryption
-Status: Draft
+Status: published
 Date: 3/9/17
 
 >Alice is getting ready to leave the office. She grabs her keys and wallet, and reaches for her phone. _But her phone isn't there_.

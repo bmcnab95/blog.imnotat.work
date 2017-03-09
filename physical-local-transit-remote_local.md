@@ -19,7 +19,7 @@ But what if the phone was stolen? There is very sensitive information on her pho
 
 That's what I'm here to talk about: How to keep the information on your computer secure even if the system was stolen.
 
-Local data is defined as any and all information stored on any disk on the computer. This can include a hard drive, an SSD, and SD card, or CD/DVD in the optical drive.
+Local data is defined as any and all information stored on any disk on the computer. This can include a hard drive, an SSD, SD card, or CD/DVD in the optical drive.
 
 Concept of the day: encryption.
 

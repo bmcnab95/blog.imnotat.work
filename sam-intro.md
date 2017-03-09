@@ -1,6 +1,6 @@
 Title: Sam's Intro
 Author: Sam
-Category: Misc.
+Category: Misc
 Tags: Intro
 Date: 3/8/17
 

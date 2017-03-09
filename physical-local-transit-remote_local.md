@@ -49,3 +49,7 @@ MacOS and Windows need to be enabled as well, and most are very simple. There ar
 > If Alice wants her data to be safe so only she can get to it, even if it has been stolen, encryption is the only way. 
 
 Encrypting a drive takes time and the first time you enable encryption, you will need to leave your system (phone, laptop or otherwise) plugged in, until the process is complete. Even if your computer or phone is stolen, nobody will be able to read what is stored on the device locally without your password. Remember to pick a good password.
+
+>DISCLAIMER: I do not pretend to be a security analyst or researcher in trade or through education. I am a hobbyist, with an interest in security. I do practice what I preach here, but cannot be blamed for your computer eating your dog.
+
+>If you do find I am inaccurate, feel free to contact me with the corrections! I love learning new things.

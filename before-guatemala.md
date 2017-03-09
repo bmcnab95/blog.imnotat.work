@@ -3,6 +3,7 @@ Author: Sam
 Category: Travel
 Tags: Guatemala
 Date: 3/8/17
+Status: draft
 
 So, I’m going to Guatemala. I literally saw a Facebook ad about this and felt this pull, like I HAVE to go on this trip, so here we are. I’m going to Guatemala in about a week. So far I’ve been to Mexico for a church mission trip when I was around seven I believe, up and down California from San Diego to Fort Bragg, Tahoe for vacations, Illinois for family Christmases and couple times when I was little, Hawaii twice with my grandparents when I was five or six and another time after that, and a quick ten day trip across parts of Europe where I went to London and other small parts of England, Paris and Burgundy in France, Lucerne Switzerland, Munich and Dachau in Germany, and Liechtenstein, but I’m about to take a very different kind of trip. No, I’m not talking about drugs. That’s an article for another time.
 

@@ -27,7 +27,7 @@ This one is the biggest problem, but perhaps the least considered. Many of us as
 
 Well, that’s all I really have to say for now. I’m super excited and looking forward to this trip. There is a two and a half day hike involved and I get to see a volcano and lots of other cool things. I’ll have my camera on me and keep a journal so I’ll have stories and pictures when I get back.
 
-Feel free to reach out with any questions, topics you want me to cover, or anything else. You can follow me on Tumblr as well at sarahspeaks.tumblr.com.
+Feel free to reach out with any questions, topics you want me to cover, or anything else. You can follow me on [Tumblr](sarahspeaks.tumblr.com) as well.
 
 If anyone would like to donate this to this trip you can follow this link here.
 Otherwise I’m hopefully have some photo prints up for sale not too long after I come back.

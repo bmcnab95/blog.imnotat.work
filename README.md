@@ -29,32 +29,39 @@ Public repository for blog.imnotat.work articles
 
 ### Headers
 
+#### H1 Header
 > \# Header
 > 
 > # Header
 
+#### H2 Header
 > \#\# Header
 > 
 > ## Header
 
+#### H3 Header
 > \#\#\# Header
 > 
 > ### Header
 
+#### H4 Header
 > \#\#\#\# Header
 > 
 > #### Header
 
 ### Text
 
+#### Italics
 > \_Italics\_
 > 
 > _Italics_
 
+#### Bold
 > \*\*Bold\*\*
 >
 > **Bold**
 
+#### Strikethrough
 >\~\~Strikethrough\~\~
 >
 >~~Strikethrough~~

@@ -1,8 +1,7 @@
 # blog.imnotat.work
 Public repository for blog.imnotat.work articles
 
-How to contribute
-================
+## How to contribute
 
 * Create/Put the file in the category folder.
 
@@ -19,3 +18,43 @@ How to contribute
   * Tags: All tags, you want, to apply, each separated, by commas
   
   * Status: draft (always put draft first, it will be changed to published after being proofread)
+
+## Formatting quickstart
+
+### Link
+
+> \[DuckDuckGo\]\(https://www.duckduckgo.com\)
+> 
+> [DuckDuckGo](https://www.duckduckgo.com)
+
+### Headers
+
+> \# Header
+> 
+> # Header
+
+> \#\# Header
+> 
+> ## Header
+
+> \#\#\# Header
+> 
+> ### Header
+
+> \#\#\#\# Header
+> 
+> #### Header
+
+### Text
+
+> \_Italics\_
+> 
+> _Italics_
+
+> \*\*Bold\*\*
+>
+> **Bold**
+
+>\~\~Strikethrough\~\~
+>
+>~~Strikethrough~~

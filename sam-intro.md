@@ -2,7 +2,7 @@ Title: Sam's Intro
 Author: Sam
 Category: Misc
 Tags: Intro
-Date: 3/8/17
+Date: 3/10/17
 Status: published
 
 Hello. My name is Sarah, but I prefer to go by Sam. I’m currently twenty years old, a biology major, part of the working class, a photographer, and a lot more that we’ll both learn about as time goes on. 

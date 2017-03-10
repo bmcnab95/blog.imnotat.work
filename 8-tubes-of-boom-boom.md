@@ -1,6 +1,5 @@
 Title: 8 Tubes of boom-boom
 Author: Bryce McNab
-Category: Overland
 Tags: FC-170
 Date: 3/6/17
 

@@ -9,15 +9,17 @@ Public repository for blog.imnotat.work articles
 
 * Put some metadata at the beginning of your article:
 
-  * Title: This is the article name
-  
-  * Author: First Last
-  
-  * Date: 1/2/17
-  
-  * Tags: All tags, you want, to apply, each separated, by commas
-  
-  * Status: draft (always put draft first, it will be changed to published after being proofread)
+>Title: This is the article name
+
+>Author: John Smith
+
+>Date: 1/2/17
+
+>Tags: Fun, fast and furious, cold
+
+>Status: draft
+
+`Status: draft` is used so articles are posted to the draft section for proofreading
 
 ## Formatting quickstart
 
